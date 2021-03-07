@@ -1,0 +1,18 @@
+
+.livros{
+  
+  position: relative;
+  margin: 20px auto;
+}
+ul li img{
+  width: 100%;
+  height: 100%;
+}
+ul{
+  text-align: center;
+}
+
+
+
+
+/*vamos tratar do titulo agora*/
